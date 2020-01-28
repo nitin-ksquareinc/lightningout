@@ -1,18 +1,11 @@
 {
-    "name": "env-vars",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "dependencies": { 
-		"express": ">= 4.16.3",
-		"body-parser": ">= 1.18.2",
-		"request": ">= 2.85.0"
-},
-    "devDependencies": {},
-    "scripts": {
-        "dev": "node-env-run app.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+  "name": "demo_slds_heroku",
+  "version": "0.0.0",
+  "description": "demo_slds_heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
