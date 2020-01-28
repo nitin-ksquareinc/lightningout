@@ -1,0 +1,14 @@
+{
+    "name": "env-vars",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "dev": "node-env-run app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
