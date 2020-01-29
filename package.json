@@ -1,5 +1,5 @@
 "scripts": {
-     "start": "lwc-services serve"
+    "start": "node your-script.js"
 },
 {
   "name": "demo_slds_heroku",
