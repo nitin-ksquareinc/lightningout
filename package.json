@@ -1,3 +1,8 @@
+"scripts": {
+    ...
+    "compile:sass": "node-sass sass/main.scss  css/style.css -w",
+     "start": "node-sass sass/main.scss  css/style.css -w"
+},
 {
   "name": "demo_slds_heroku",
   "version": "0.0.0",
