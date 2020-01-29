@@ -7,7 +7,7 @@
   "description": "demo_slds_heroku",
   "main": "server.js",
   "scripts": {
-    "start": "react-scripts start", <--- here
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
